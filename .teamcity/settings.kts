@@ -36,6 +36,7 @@ project {
 }
 
 object Build : BuildType({
+    artifactRules = "target/*.jar => artifacts"
     name = "Build"
 
     vcs {
