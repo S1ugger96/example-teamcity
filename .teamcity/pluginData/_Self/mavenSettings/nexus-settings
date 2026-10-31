@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<settings xmlns="http://maven.apache.org/SETTINGS/1.2.0"><servers><server><id>nexus</id><username>admin</username><password>admin123</password></server></servers></settings>
